@@ -25,3 +25,17 @@ header {
     margin: 0 16px;
     font-size: 25px;
 }
+
+.colerman-imagem{
+width: 25%;
+}
+
+.colerman{
+    background-image: linear-gradient(#ff0000, #d10c0c);
+    color: aliceblue;
+    display: flex;
+    justify-content: last center;
+    align-items: center;
+    padding: 24px 0;
+
+}
