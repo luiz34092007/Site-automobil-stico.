@@ -39,3 +39,15 @@ width: 25%;
     padding: 24px 0;
 
 }
+
+.colerman.div.conteudo {
+    width: 35%;
+}
+
+.colerman-titulo {
+    padding:24px, 0;
+}
+
+.body {
+    font-family: 'Inria sans', sans-serif;
+}
